@@ -5,7 +5,6 @@
 
 ---
 
-# Book Recommendation Chatbot
 
 Welcome to the Book Recommendation Chatbot repository! This chatbot is designed to provide personalized book recommendations based on user preferences. It was built using Zapier's automation platform, integrating various APIs to gather information and deliver tailored recommendations.
 
